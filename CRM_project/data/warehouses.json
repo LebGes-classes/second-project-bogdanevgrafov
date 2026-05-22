@@ -1,0 +1,333 @@
+[
+  {
+    "id": 1,
+    "city": "Moscow",
+    "address": "Lenina 11",
+    "name": "Warehouse Moscow 1",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 1,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "2": 25,
+          "3": 8,
+          "4": 5
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "5": 13,
+          "6": 12,
+          "7": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "city": "SaintPetersburg",
+    "address": "Pushkina 12",
+    "name": "Warehouse SaintPetersburg 2",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 2,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "9": 9,
+          "10": 28,
+          "11": 8
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "12": 22,
+          "13": 7,
+          "14": 23
+        }
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "city": "Kazan",
+    "address": "Gagarina 13",
+    "name": "Warehouse Kazan 3",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 3,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "16": 18,
+          "17": 6,
+          "18": 5
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "19": 7,
+          "20": 11,
+          "21": 12
+        }
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "city": "Novosibirsk",
+    "address": "Sovetskaya 14",
+    "name": "Warehouse Novosibirsk 4",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 4,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "23": 21,
+          "24": 24,
+          "25": 5
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "26": 22,
+          "27": 11,
+          "28": 25
+        }
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "city": "Ekaterinburg",
+    "address": "Mira 15",
+    "name": "Warehouse Ekaterinburg 5",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 5,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "30": 27,
+          "31": 22,
+          "32": 18
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "33": 12,
+          "34": 19,
+          "35": 23
+        }
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "city": "Samara",
+    "address": "Komsomolskaya 16",
+    "name": "Warehouse Samara 6",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 6,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "37": 13,
+          "38": 30,
+          "39": 5
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "40": 10,
+          "41": 18,
+          "42": 15
+        }
+      }
+    ]
+  },
+  {
+    "id": 7,
+    "city": "Perm",
+    "address": "Central 17",
+    "name": "Warehouse Perm 7",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 7,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "44": 13,
+          "45": 9,
+          "46": 11
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "47": 15,
+          "48": 8,
+          "49": 7
+        }
+      }
+    ]
+  },
+  {
+    "id": 8,
+    "city": "Ufa",
+    "address": "Molodezhnaya 18",
+    "name": "Warehouse Ufa 8",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 8,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "51": 17,
+          "52": 8,
+          "53": 16
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "54": 16,
+          "55": 24,
+          "56": 13
+        }
+      }
+    ]
+  },
+  {
+    "id": 9,
+    "city": "Rostov",
+    "address": "Lenina 19",
+    "name": "Warehouse Rostov 9",
+    "opening_date": "2023-09-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 9,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "58": 30,
+          "59": 6,
+          "60": 28
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "61": 19,
+          "62": 22,
+          "63": 8
+        }
+      }
+    ]
+  },
+  {
+    "id": 10,
+    "city": "Voronezh",
+    "address": "Pushkina 20",
+    "name": "Warehouse Voronezh 10",
+    "opening_date": "2023-09-01",
+    "closing_date": "2026-05-23",
+    "status": "closed",
+    "manager_id": 10,
+    "cells": [
+      {
+        "id": 1,
+        "name": "Cell A",
+        "capacity": 300,
+        "inventory": {
+          "65": 17,
+          "66": 7,
+          "67": 22
+        }
+      },
+      {
+        "id": 2,
+        "name": "Cell B",
+        "capacity": 300,
+        "inventory": {
+          "68": 14,
+          "69": 25,
+          "70": 24
+        }
+      }
+    ]
+  },
+  {
+    "id": 11,
+    "city": "Тольятти",
+    "address": "улица Богданышева",
+    "name": "Арбузик",
+    "opening_date": "2026-05-23",
+    "closing_date": "2026-05-23",
+    "status": "closed",
+    "manager_id": 1,
+    "cells": []
+  }
+]

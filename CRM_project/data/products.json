@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Notebook 001",
+    "price": 60.0,
+    "weight": 0.25,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 2,
+    "name": "Pen 002",
+    "price": 70.0,
+    "weight": 0.30000000000000004,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 3,
+    "name": "Pencil 003",
+    "price": 80.0,
+    "weight": 0.35000000000000003,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 4,
+    "name": "Marker 004",
+    "price": 90.0,
+    "weight": 0.4,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 5,
+    "name": "Ruler 005",
+    "price": 100.0,
+    "weight": 0.45,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 6,
+    "name": "Folder 006",
+    "price": 110.0,
+    "weight": 0.5,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 7,
+    "name": "Stapler 007",
+    "price": 120.0,
+    "weight": 0.2,
+    "developer": "US",
+    "is_available": false
+  },
+  {
+    "id": 8,
+    "name": "Calculator 008",
+    "price": 130.0,
+    "weight": 0.25,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 9,
+    "name": "Eraser 009",
+    "price": 140.0,
+    "weight": 0.30000000000000004,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 10,
+    "name": "Paper 010",
+    "price": 150.0,
+    "weight": 0.35000000000000003,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 11,
+    "name": "Textbook 011",
+    "price": 160.0,
+    "weight": 0.4,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 12,
+    "name": "Planner 012",
+    "price": 170.0,
+    "weight": 0.45,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 13,
+    "name": "FlashDrive 013",
+    "price": 180.0,
+    "weight": 0.5,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 14,
+    "name": "Backpack 014",
+    "price": 190.0,
+    "weight": 0.2,
+    "developer": "DE",
+    "is_available": false
+  },
+  {
+    "id": 15,
+    "name": "Highlighter 015",
+    "price": 50.0,
+    "weight": 0.25,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 16,
+    "name": "Clip 016",
+    "price": 60.0,
+    "weight": 0.30000000000000004,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 17,
+    "name": "Glue 017",
+    "price": 70.0,
+    "weight": 0.35000000000000003,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 18,
+    "name": "Tape 018",
+    "price": 80.0,
+    "weight": 0.4,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 19,
+    "name": "Scanner 019",
+    "price": 90.0,
+    "weight": 0.45,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 20,
+    "name": "Printer 020",
+    "price": 100.0,
+    "weight": 0.5,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 21,
+    "name": "Notebook 021",
+    "price": 110.0,
+    "weight": 0.2,
+    "developer": "CN",
+    "is_available": false
+  },
+  {
+    "id": 22,
+    "name": "Pen 022",
+    "price": 120.0,
+    "weight": 0.25,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 23,
+    "name": "Pencil 023",
+    "price": 130.0,
+    "weight": 0.30000000000000004,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 24,
+    "name": "Marker 024",
+    "price": 140.0,
+    "weight": 0.35000000000000003,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 25,
+    "name": "Ruler 025",
+    "price": 150.0,
+    "weight": 0.4,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 26,
+    "name": "Folder 026",
+    "price": 160.0,
+    "weight": 0.45,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 27,
+    "name": "Stapler 027",
+    "price": 170.0,
+    "weight": 0.5,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 28,
+    "name": "Calculator 028",
+    "price": 180.0,
+    "weight": 0.2,
+    "developer": "RU",
+    "is_available": false
+  },
+  {
+    "id": 29,
+    "name": "Eraser 029",
+    "price": 190.0,
+    "weight": 0.25,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 30,
+    "name": "Paper 030",
+    "price": 50.0,
+    "weight": 0.30000000000000004,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 31,
+    "name": "Textbook 031",
+    "price": 60.0,
+    "weight": 0.35000000000000003,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 32,
+    "name": "Planner 032",
+    "price": 70.0,
+    "weight": 0.4,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 33,
+    "name": "FlashDrive 033",
+    "price": 80.0,
+    "weight": 0.45,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 34,
+    "name": "Backpack 034",
+    "price": 90.0,
+    "weight": 0.5,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 35,
+    "name": "Highlighter 035",
+    "price": 100.0,
+    "weight": 0.2,
+    "developer": "US",
+    "is_available": false
+  },
+  {
+    "id": 36,
+    "name": "Clip 036",
+    "price": 110.0,
+    "weight": 0.25,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 37,
+    "name": "Glue 037",
+    "price": 120.0,
+    "weight": 0.30000000000000004,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 38,
+    "name": "Tape 038",
+    "price": 130.0,
+    "weight": 0.35000000000000003,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 39,
+    "name": "Scanner 039",
+    "price": 140.0,
+    "weight": 0.4,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 40,
+    "name": "Printer 040",
+    "price": 150.0,
+    "weight": 0.45,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 41,
+    "name": "Notebook 041",
+    "price": 160.0,
+    "weight": 0.5,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 42,
+    "name": "Pen 042",
+    "price": 170.0,
+    "weight": 0.2,
+    "developer": "DE",
+    "is_available": false
+  },
+  {
+    "id": 43,
+    "name": "Pencil 043",
+    "price": 180.0,
+    "weight": 0.25,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 44,
+    "name": "Marker 044",
+    "price": 190.0,
+    "weight": 0.30000000000000004,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 45,
+    "name": "Ruler 045",
+    "price": 50.0,
+    "weight": 0.35000000000000003,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 46,
+    "name": "Folder 046",
+    "price": 60.0,
+    "weight": 0.4,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 47,
+    "name": "Stapler 047",
+    "price": 70.0,
+    "weight": 0.45,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 48,
+    "name": "Calculator 048",
+    "price": 80.0,
+    "weight": 0.5,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 49,
+    "name": "Eraser 049",
+    "price": 90.0,
+    "weight": 0.2,
+    "developer": "CN",
+    "is_available": false
+  },
+  {
+    "id": 50,
+    "name": "Paper 050",
+    "price": 100.0,
+    "weight": 0.25,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 51,
+    "name": "Textbook 051",
+    "price": 110.0,
+    "weight": 0.30000000000000004,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 52,
+    "name": "Planner 052",
+    "price": 120.0,
+    "weight": 0.35000000000000003,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 53,
+    "name": "FlashDrive 053",
+    "price": 130.0,
+    "weight": 0.4,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 54,
+    "name": "Backpack 054",
+    "price": 140.0,
+    "weight": 0.45,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 55,
+    "name": "Highlighter 055",
+    "price": 150.0,
+    "weight": 0.5,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 56,
+    "name": "Clip 056",
+    "price": 160.0,
+    "weight": 0.2,
+    "developer": "RU",
+    "is_available": false
+  },
+  {
+    "id": 57,
+    "name": "Glue 057",
+    "price": 170.0,
+    "weight": 0.25,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 58,
+    "name": "Tape 058",
+    "price": 180.0,
+    "weight": 0.30000000000000004,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 59,
+    "name": "Scanner 059",
+    "price": 190.0,
+    "weight": 0.35000000000000003,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 60,
+    "name": "Printer 060",
+    "price": 50.0,
+    "weight": 0.4,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 61,
+    "name": "Notebook 061",
+    "price": 60.0,
+    "weight": 0.45,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 62,
+    "name": "Pen 062",
+    "price": 70.0,
+    "weight": 0.5,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 63,
+    "name": "Pencil 063",
+    "price": 80.0,
+    "weight": 0.2,
+    "developer": "US",
+    "is_available": false
+  },
+  {
+    "id": 64,
+    "name": "Marker 064",
+    "price": 90.0,
+    "weight": 0.25,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 65,
+    "name": "Ruler 065",
+    "price": 100.0,
+    "weight": 0.30000000000000004,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 66,
+    "name": "Folder 066",
+    "price": 110.0,
+    "weight": 0.35000000000000003,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 67,
+    "name": "Stapler 067",
+    "price": 120.0,
+    "weight": 0.4,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 68,
+    "name": "Calculator 068",
+    "price": 130.0,
+    "weight": 0.45,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 69,
+    "name": "Eraser 069",
+    "price": 140.0,
+    "weight": 0.5,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 70,
+    "name": "Paper 070",
+    "price": 150.0,
+    "weight": 0.2,
+    "developer": "DE",
+    "is_available": false
+  },
+  {
+    "id": 71,
+    "name": "Textbook 071",
+    "price": 160.0,
+    "weight": 0.25,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 72,
+    "name": "Planner 072",
+    "price": 170.0,
+    "weight": 0.30000000000000004,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 73,
+    "name": "FlashDrive 073",
+    "price": 180.0,
+    "weight": 0.35000000000000003,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 74,
+    "name": "Backpack 074",
+    "price": 190.0,
+    "weight": 0.4,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 75,
+    "name": "Highlighter 075",
+    "price": 50.0,
+    "weight": 0.45,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 76,
+    "name": "Clip 076",
+    "price": 60.0,
+    "weight": 0.5,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 77,
+    "name": "Glue 077",
+    "price": 70.0,
+    "weight": 0.2,
+    "developer": "CN",
+    "is_available": false
+  },
+  {
+    "id": 78,
+    "name": "Tape 078",
+    "price": 80.0,
+    "weight": 0.25,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 79,
+    "name": "Scanner 079",
+    "price": 90.0,
+    "weight": 0.30000000000000004,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 80,
+    "name": "Printer 080",
+    "price": 100.0,
+    "weight": 0.35000000000000003,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 81,
+    "name": "Notebook 081",
+    "price": 110.0,
+    "weight": 0.4,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 82,
+    "name": "Pen 082",
+    "price": 120.0,
+    "weight": 0.45,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 83,
+    "name": "Pencil 083",
+    "price": 130.0,
+    "weight": 0.5,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 84,
+    "name": "Marker 084",
+    "price": 140.0,
+    "weight": 0.2,
+    "developer": "RU",
+    "is_available": false
+  },
+  {
+    "id": 85,
+    "name": "Ruler 085",
+    "price": 150.0,
+    "weight": 0.25,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 86,
+    "name": "Folder 086",
+    "price": 160.0,
+    "weight": 0.30000000000000004,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 87,
+    "name": "Stapler 087",
+    "price": 170.0,
+    "weight": 0.35000000000000003,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 88,
+    "name": "Calculator 088",
+    "price": 180.0,
+    "weight": 0.4,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 89,
+    "name": "Eraser 089",
+    "price": 190.0,
+    "weight": 0.45,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 90,
+    "name": "Paper 090",
+    "price": 50.0,
+    "weight": 0.5,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 91,
+    "name": "Textbook 091",
+    "price": 60.0,
+    "weight": 0.2,
+    "developer": "US",
+    "is_available": false
+  },
+  {
+    "id": 92,
+    "name": "Planner 092",
+    "price": 70.0,
+    "weight": 0.25,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 93,
+    "name": "FlashDrive 093",
+    "price": 80.0,
+    "weight": 0.30000000000000004,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 94,
+    "name": "Backpack 094",
+    "price": 90.0,
+    "weight": 0.35000000000000003,
+    "developer": "DE",
+    "is_available": true
+  },
+  {
+    "id": 95,
+    "name": "Highlighter 095",
+    "price": 100.0,
+    "weight": 0.4,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 96,
+    "name": "Clip 096",
+    "price": 110.0,
+    "weight": 0.45,
+    "developer": "RU",
+    "is_available": true
+  },
+  {
+    "id": 97,
+    "name": "Glue 097",
+    "price": 120.0,
+    "weight": 0.5,
+    "developer": "CN",
+    "is_available": true
+  },
+  {
+    "id": 98,
+    "name": "Tape 098",
+    "price": 130.0,
+    "weight": 0.2,
+    "developer": "DE",
+    "is_available": false
+  },
+  {
+    "id": 99,
+    "name": "Scanner 099",
+    "price": 140.0,
+    "weight": 0.25,
+    "developer": "US",
+    "is_available": true
+  },
+  {
+    "id": 100,
+    "name": "Printer 100",
+    "price": 150.0,
+    "weight": 0.30000000000000004,
+    "developer": "RU",
+    "is_available": true
+  }
+]

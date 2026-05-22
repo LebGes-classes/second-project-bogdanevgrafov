@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "city": "Moscow",
+    "address": "Lenina 101",
+    "name": "Sales Point Moscow 1",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 51,
+    "inventory": {
+      "1": 5,
+      "10": 10,
+      "20": 4
+    }
+  },
+  {
+    "id": 2,
+    "city": "SaintPetersburg",
+    "address": "Pushkina 102",
+    "name": "Sales Point SaintPetersburg 2",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 52,
+    "inventory": {
+      "2": 2,
+      "11": 1,
+      "21": 4
+    }
+  },
+  {
+    "id": 3,
+    "city": "Kazan",
+    "address": "Gagarina 103",
+    "name": "Sales Point Kazan 3",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 53,
+    "inventory": {
+      "3": 5,
+      "12": 2,
+      "22": 4
+    }
+  },
+  {
+    "id": 4,
+    "city": "Novosibirsk",
+    "address": "Sovetskaya 104",
+    "name": "Sales Point Novosibirsk 4",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 54,
+    "inventory": {
+      "4": 2,
+      "13": 7,
+      "23": 5
+    }
+  },
+  {
+    "id": 5,
+    "city": "Ekaterinburg",
+    "address": "Mira 105",
+    "name": "Sales Point Ekaterinburg 5",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 55,
+    "inventory": {
+      "5": 8,
+      "14": 6,
+      "24": 3
+    }
+  },
+  {
+    "id": 6,
+    "city": "Samara",
+    "address": "Komsomolskaya 106",
+    "name": "Sales Point Samara 6",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 56,
+    "inventory": {
+      "6": 6,
+      "15": 6,
+      "25": 4
+    }
+  },
+  {
+    "id": 7,
+    "city": "Perm",
+    "address": "Central 107",
+    "name": "Sales Point Perm 7",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 57,
+    "inventory": {
+      "7": 5,
+      "16": 2,
+      "26": 10
+    }
+  },
+  {
+    "id": 8,
+    "city": "Ufa",
+    "address": "Molodezhnaya 108",
+    "name": "Sales Point Ufa 8",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 58,
+    "inventory": {
+      "8": 3,
+      "17": 9,
+      "27": 4
+    }
+  },
+  {
+    "id": 9,
+    "city": "Rostov",
+    "address": "Lenina 109",
+    "name": "Sales Point Rostov 9",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 59,
+    "inventory": {
+      "9": 3,
+      "18": 8,
+      "28": 7
+    }
+  },
+  {
+    "id": 10,
+    "city": "Voronezh",
+    "address": "Pushkina 110",
+    "name": "Sales Point Voronezh 10",
+    "opening_date": "2023-10-01",
+    "closing_date": null,
+    "status": "open",
+    "manager_id": 60,
+    "inventory": {
+      "10": 5,
+      "19": 9,
+      "29": 4
+    }
+  }
+]
